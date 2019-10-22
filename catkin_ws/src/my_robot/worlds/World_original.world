@@ -2221,7 +2221,6 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-<!--
       <model name='my_robot'>
         <pose frame=''>5e-05 -0.004284 0.099995 1.2e-05 0.000562 0.000994</pose>
         <scale>1 1 1</scale>
@@ -2244,7 +2243,6 @@
           <wrench>0.000101 -0.011159 -147.938 0 -0 0</wrench>
         </link>
       </model>
--->
       <model name='pine_tree'>
         <pose frame=''>3.10861 4.9237 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -2266,7 +2264,6 @@
         <projection_type>perspective</projection_type>
       </camera>
     </gui>
-<!--
     <model name='my_robot'>
       <link name='robot_footprint'>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -2675,7 +2672,6 @@
       </plugin>
       <pose frame=''>0 0 0 0 -0 0</pose>
     </model>
--->
     <model name='my_ball'>
       <link name='link_0'>
         <pose frame=''>-0 0 0 0 -0 0</pose>
